@@ -14,12 +14,6 @@
     665B gzipped
 
 !SLIDE
-# Cucumber #
-    @@@ cucumber
-    When "Click Me" is clicked
-    Then Change the text to "Clicked!"
-
-!SLIDE
 # jQuery #
     @@@ javascript
     jQuery('a#click-me').click(function(){
@@ -33,8 +27,14 @@
       $(@).text 'Clicked!
 
 !SLIDE
+# Cucumber #
+    @@@ cucumber
+    When "Click Me" is clicked
+    Then Change the text to "Clicked!"
+
+!SLIDE
 # whenever.js #
     @@@ javascript
-    whenever("Click Me!")
+    whenever('Click Me!')
       .is   ('clicked')
       .then ('Change the text to "Clicked!"')
