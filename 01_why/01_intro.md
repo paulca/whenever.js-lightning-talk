@@ -3,7 +3,6 @@
 ## A JS microframework DSL thingy  ##
 ### Paul Campbell, Nordic Ruby, Fri June 17th 2011 ###
 ### @paulca ###
-### github.com/paulca/whenever.js ###
 
 !SLIDE bullets smaller incremental
 # Why? Why? _why? #

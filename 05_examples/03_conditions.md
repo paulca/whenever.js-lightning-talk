@@ -24,7 +24,7 @@
       }
     })
 
-!SLIDE
+!SLIDE small
 # Conditions #
 ## app.js ##
     @@@ javascript
