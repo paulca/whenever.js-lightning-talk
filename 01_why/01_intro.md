@@ -5,18 +5,13 @@
 ### @paulca ###
 ### github.com/paulca/whenever.js ###
 
-!SLIDE bullets incremental
+!SLIDE bullets smaller incremental
 # Why? Why? _why? #
 
 * Client Side MVC?
 * Organise javascripts.
-* Cucumber.
-* Clean Separation.
 * Nice API.
-
-!SLIDE bullets incremental
-# More. More. More. #
-
 * Learn about javascript.
 * Use "The Good Parts".
 * Move things along.
+* Cucumber.
