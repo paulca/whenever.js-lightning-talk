@@ -1,0 +1,9 @@
+{
+  "name": "whenever.js",
+  "sections": [
+    {"section":"01_why"},
+    {"section":"02_structure"},
+    {"section":"05_examples"},
+    {"section":"06_end"}
+  ]
+}
